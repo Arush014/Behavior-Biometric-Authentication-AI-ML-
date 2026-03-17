@@ -1,4 +1,4 @@
-# Behavioral Biometric Authentication System (Multi-Modal)
+# Behavioral Biometric Authentication System 
 
 ## Overview
 This project was developed during my internship and implements a multi-modal behavioral biometric authentication system. It combines typing dynamics with computer vision-based behavioral analysis (eye blink patterns and head movement) to verify user identity.
