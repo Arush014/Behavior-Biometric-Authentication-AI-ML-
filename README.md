@@ -120,8 +120,7 @@ The system provides:
 
 ## 👨‍💻 Author
 
-Arush
-Aspiring AI/ML Developer
+Arush Gupta
 
 ---
 
